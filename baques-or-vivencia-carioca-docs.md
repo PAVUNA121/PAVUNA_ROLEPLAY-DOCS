@@ -1,4 +1,4 @@
-# 🔫 Baques | Vivência Carioca Docs
+# 🔫 Baques | PAVUNA ROLEPLAYDocs
 
 1. **Baque restrito a facções rivais** Favelas **somente podem baquear** outras favelas que pertençam a **facções rivais**.
 2. **Limite mensal de baques** Cada favela tem direito a **no máximo 4 baques por mês**.

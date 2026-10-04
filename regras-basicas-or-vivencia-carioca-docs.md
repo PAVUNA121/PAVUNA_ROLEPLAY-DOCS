@@ -1,4 +1,4 @@
-# Regras Básicas | Vivência Carioca Docs
+# Regras Básicas | PAVUNA ROLEPLAYDocs
 
 Tenha sempre BOM SENSO, pense antes de agir, reflita se realmente faria o que está prestes a fazer, na sua vida real.
 

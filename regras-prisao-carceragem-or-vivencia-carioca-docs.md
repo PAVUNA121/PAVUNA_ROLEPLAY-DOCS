@@ -1,4 +1,4 @@
-# 🔐 Regras Prisão/Carceragem | Vivência Carioca Docs
+# 🔐 Regras Prisão/Carceragem | PAVUNA ROLEPLAYDocs
 
 * Toda prisão deve ser efetuada pela corporação responsável.
 * O tempo máximo para que o procedimento de carceragem ocorra não deve passar de 20 minutos. Caso o preso opte por chamar Advogado, o tempo estipulado na regra 2 deixa de valer.

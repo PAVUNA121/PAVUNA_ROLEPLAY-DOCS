@@ -1,4 +1,4 @@
-# 🟢 Safezones | Vivência Carioca Docs
+# 🟢 Safezones | PAVUNA ROLEPLAYDocs
 
 ✓ REGRAS SAFEZONE
 

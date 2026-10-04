@@ -1,4 +1,4 @@
-# FLAMING | Vivência Carioca Docs
+# FLAMING | PAVUNA ROLEPLAYDocs
 
 É considerado FLAMING quando você interage com hostilidade com outros jogadores sem motivo. Excesso de chingamentos tambem podem ser considerados flaming. Varrer e incendiar corpos não são considerados flaming.
 

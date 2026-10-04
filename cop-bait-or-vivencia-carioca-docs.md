@@ -1,4 +1,4 @@
-# COP BAIT | Vivência Carioca Docs
+# COP BAIT | PAVUNA ROLEPLAYDocs
 
 COP BAIT É considerado COP BAIT quando o jogador realiza um chamado ou causa uma ocorrência falsa para atrair a POLÍCIA com o intuito de armar uma emboscada. Exemplos:
 

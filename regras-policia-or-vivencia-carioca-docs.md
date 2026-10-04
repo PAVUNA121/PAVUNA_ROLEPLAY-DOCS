@@ -1,4 +1,4 @@
-# 👮‍♂️ Regras Polícia | Vivência Carioca Docs
+# 👮‍♂️ Regras Polícia | PAVUNA ROLEPLAYDocs
 
 1. Após capturado pela polícia, aceite o RP e as ordens do policial, evite exageros em sua história e em suas reações como detido/bandido.
 2. É proibido roubar qualquer viatura policial, a menos que esteja em uma ação, nesse caso poderá usufruir do veículo para fuga e abandoná-lo o mais rápido possível.

@@ -1,4 +1,4 @@
-# 🏥 Regras Hospital / Bombeiros | Vivência Carioca Docs
+# 🏥 Regras Hospital / Bombeiros | PAVUNA ROLEPLAYDocs
 
 ## Regras Hospital
 

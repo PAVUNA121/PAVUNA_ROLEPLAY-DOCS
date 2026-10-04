@@ -1,4 +1,4 @@
-# 🍀 Regras Farm | Vivência Carioca Docs
+# 🍀 Regras Farm | PAVUNA ROLEPLAYDocs
 
 ⏰ A quantidade máxima de itens deve seguir a tabela abaixo. Se a quantidade for ultrapassada, todo o farm poderá ser retirado pela policia. Caso nao chegue no limite permitido, a policia não pode retirar.
 

@@ -1,4 +1,4 @@
-# ⛓ Regras Sequestro | Vivência Carioca Docs
+# ⛓ Regras Sequestro | PAVUNA ROLEPLAYDocs
 
 ⏰ Existem 2 tipos de sequestro, os mesmos devem seguir as regras conforma a ocasião abaixo.
 

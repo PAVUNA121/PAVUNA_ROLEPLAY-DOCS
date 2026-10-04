@@ -1,4 +1,4 @@
-# 💊 Venda Drogas | Vivência Carioca Docs
+# 💊 Venda Drogas | PAVUNA ROLEPLAYDocs
 
 💊 Venda Drogas Na venda de drogas, o player pode escolher se quer dar fuga ou trocar tiro. (Tenha bom senso )
 

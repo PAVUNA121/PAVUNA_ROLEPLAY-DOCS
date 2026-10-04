@@ -1,4 +1,4 @@
-# DARK RP | Vivência Carioca Docs
+# DARK RP | PAVUNA ROLEPLAYDocs
 
 É considerado DARK RP qualquer tipo de Roleplay que envolva:
 

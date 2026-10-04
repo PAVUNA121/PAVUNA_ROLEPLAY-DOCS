@@ -1,4 +1,4 @@
-# PD / COBRANÇA | Vivência Carioca Docs
+# PD / COBRANÇA | PAVUNA ROLEPLAYDocs
 
 Membros e líderes de facção não podem lembrar de nada relacionado ao ILEGAL quando tomarem PD. Somente 01 ou 02 da facção podem executar um PD.
 

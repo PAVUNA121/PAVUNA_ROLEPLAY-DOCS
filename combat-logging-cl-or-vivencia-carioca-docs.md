@@ -1,4 +1,4 @@
-# COMBAT LOGGING (CL) | Vivência Carioca Docs
+# COMBAT LOGGING (CL) | PAVUNA ROLEPLAYDocs
 
 Combat logging é deslogar durante qualquer ação/roleplay em que você esteja envolvido para não sofrer consequências de suas atitudes no roleplay.
 

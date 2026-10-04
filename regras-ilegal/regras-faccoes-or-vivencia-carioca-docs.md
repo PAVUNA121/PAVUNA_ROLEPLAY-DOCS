@@ -1,4 +1,4 @@
-# Regras Facções | Vivência Carioca Docs
+# Regras Facções | PAVUNA ROLEPLAYDocs
 
 ## 📌 Líder / Sub líder
 

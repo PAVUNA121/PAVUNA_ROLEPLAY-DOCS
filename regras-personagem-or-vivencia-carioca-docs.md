@@ -1,4 +1,4 @@
-# 👫 Regras Personagem | Vivência Carioca Docs
+# 👫 Regras Personagem | PAVUNA ROLEPLAYDocs
 
 ## PERSONAGEM SECUNDÁRIO
 

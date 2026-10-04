@@ -1,4 +1,4 @@
-# Regras Gerais | Vivência Carioca Docs
+# Regras Gerais | PAVUNA ROLEPLAYDocs
 
 Proibido identificar qualquer jogador que esteja utilizando máscara. Proibido "camperar" zonas de farm. Ask
 

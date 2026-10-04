@@ -1,4 +1,4 @@
-# 📰 Regras Gerais | Vivência Carioca Docs
+# 📰 Regras Gerais | PAVUNA ROLEPLAYDocs
 
 A tentativa de resgate de alguém que está sendo encaminhado pela POLÍCIA só poderá ocorrer antes do momento em que a pessoa é colocada na VIATURA (deve respeitar o armamento da ação que gerou o resgate).
 

@@ -1,4 +1,4 @@
-# 💻 Regras Discord | Vivência Carioca Docs
+# 💻 Regras Discord | PAVUNA ROLEPLAYDocs
 
 🚨 Importante Utilize o princípio da ética: Não faça ao outro o que não quer que façam com você.
 

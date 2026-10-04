@@ -1,4 +1,4 @@
-# 🏎 Regras Fuga/Perseguição | Vivência Carioca Docs
+# 🏎 Regras Fuga/Perseguição | PAVUNA ROLEPLAYDocs
 
 **50 minutos:** Após 50 minutos de fuga, a polícia poderá abrir o código (3) nos pneus.
 

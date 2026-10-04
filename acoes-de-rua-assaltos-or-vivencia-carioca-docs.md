@@ -1,4 +1,4 @@
-# 🔫 Ações de Rua / Assaltos | Vivência Carioca Docs
+# 🔫 Ações de Rua / Assaltos | PAVUNA ROLEPLAYDocs
 
 **Horário de Assalto:** Permitido entre 22h00 e 06h00 do horário do jogo.
 

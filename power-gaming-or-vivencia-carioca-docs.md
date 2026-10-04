@@ -1,4 +1,4 @@
-# POWER GAMING | Vivência Carioca Docs
+# POWER GAMING | PAVUNA ROLEPLAYDocs
 
 É a prática de abusar da mecânica ou bug do jogo para se beneficiar sobre outro adversário e/ou realizar ações impossíveis na vida real. Exemplos:
 

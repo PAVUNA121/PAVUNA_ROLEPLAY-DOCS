@@ -1,4 +1,4 @@
-# 🏠 Regras Residências | Vivência Carioca Docs
+# 🏠 Regras Residências | PAVUNA ROLEPLAYDocs
 
 Cada player pode ter apenas 3 casas nas comunidades (favelas).
 
